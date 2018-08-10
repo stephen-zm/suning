@@ -2,7 +2,7 @@
 * @Author: Administrator
 * @Date:   2018-05-16 19:53:40
 * @Last Modified by:   stephen-zm
-* @Last Modified time: 2018-07-21 22:00:20
+* @Last Modified time: 2018-07-23 08:18:28
 */
 @import url("base.css");
 *{
@@ -645,6 +645,7 @@
 	position: absolute;
 	top: 0;
 	left: 190px;
+	display: none;
 }
 .tgp li{
 	width: 100%;
